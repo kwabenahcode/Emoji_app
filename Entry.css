@@ -1,0 +1,63 @@
+.main_data{
+    background: #fff;
+    width: 24rem;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    margin: 3rem;
+    /* margin-top: 10rem; */
+    padding: rem;
+    /* margin: 7rem; */
+    
+    /* height: 15rem; */
+    
+}
+
+body{
+    background: #eee;
+   
+}
+
+.Emoji{
+    font-size: 40px;
+}
+
+.name{
+    color:rgb(64, 184, 184);
+    font-size: 20px;
+}
+
+.target{
+    padding: 3rem;
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+/* #move{
+    display: flex;
+    flex-direction: row;
+} */
+
+.heading{
+    color: #fff;
+    background-color: aquamarine;
+    padding: 3rem;
+    margin: 4rem;
+    
+
+}
+
+.div__heading{
+    text-align: center;
+    margin-top: 7rem;
+}
+
+#catch {
+    /* display: flex;
+    flex-direction: inherit; */
+    /* grid-template-columns: 1fr 1fr; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* gap: 2rem; */
+    margin-top: 7rem;
+    margin: 4rem -4rem -4re;
+    text-align: center;
+}
